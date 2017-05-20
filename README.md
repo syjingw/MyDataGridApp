@@ -9,3 +9,5 @@ DataGridApp Demo
 * npm i ag-grid-angular --save
 * replace the src folder
 * replace the angular-cli.json
+* Start the server: ng serve
+* Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files
